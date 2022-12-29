@@ -3,7 +3,7 @@ class Sum {
       int a = 5,b = 9;
       int d = 15, e = 19;
       int c = a+b;
-      int f = e-d;
+      int f = e-230;
       System.out.println(c);
       System.out.println(f);
    }
